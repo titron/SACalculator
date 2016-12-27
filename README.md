@@ -12,7 +12,7 @@ Because current longitude and latitude will be got.
 
 可以根据当前GPS的经、纬度以及用户输入的卫星的经度，计算卫星天线的俯仰角、方位角和极化角。
 
-点击**[这里](https://coding.net/u/titron/p/SACalculator/git/blob/master/SACalculator.apk)**可以下载。
+点击**[这里](https://github.com/titron/SACalculator/blob/master/SACalculator.apk)**可以下载。
 
 
 以下是截屏：
