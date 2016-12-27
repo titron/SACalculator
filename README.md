@@ -16,7 +16,7 @@ Because current longitude and latitude will be got.
 
 
 以下是截屏：
-![SACalculator截屏](https://coding.net/u/titron/p/SACalculator/git/raw/master/Screenshot_SACalculator.png)
+![SACalculator截屏](https://github.com/titron/SACalculator/blob/master/Screenshot_SACalculator.png)
 
 
 本软件为免费软件，在不改动二进制文件内容的前提下，可以用于任何用途。
